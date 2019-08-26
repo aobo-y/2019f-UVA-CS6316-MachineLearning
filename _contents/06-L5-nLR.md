@@ -2,7 +2,7 @@
 layout: post
 title: Nonlinear Regression
 lecture: L05-lrExtend-SelectModel
-lectureVersion: current 
+lectureVersion:  
 extraContent:
 notes: <a href="https://stat.ethz.ch/~stahel/courses/cheming/nlreg10E.pdf"> Useful </a> 
 HWout: HW2 

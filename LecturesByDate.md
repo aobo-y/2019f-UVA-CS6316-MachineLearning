@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LecturesByDate
+title: Slides
 desc: "2019 Fall UVa CS 6316 Machine Learning Lectures Organized by Date"
 ---
 

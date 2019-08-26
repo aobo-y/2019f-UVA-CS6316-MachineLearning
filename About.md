@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Course Information
+title: Syllabus
 desc: "Information for 2019 Fall UVa CS 6316 Machine Learning"
 ---
 
@@ -17,17 +17,17 @@ desc: "Information for 2019 Fall UVa CS 6316 Machine Learning"
 
 + Machine Learning is concerned with computer programs that automatically improve their performance through experience. This 3-credit course covers introductory topics about the theory and practical algorithms for machine learning from a variety of perspectives. Topics include supervised learning, unsupervised learning and learning theory.
 
-+ Assignments include multiple short programming and writing assignments for hands-on experiments of various learning algorithms, multiple in-class quizzes, an in-class mid-term and an in-class final exam.
++ Assignments include multiple short programming and writing assignments for hands-on experiments of various learning algorithms, multiple in-class quizzes, and a final project.
 
 + Objective of this course: 
-  + To help students become capable in building machine learning tools (not just a tool user!!!) 
-  + Key Results: students get (1) to build a few simple machine learning methods from scratch and (2) to understand a few complex machine learning methods at the source code level.  
+  + Goal: To help students get capable in building machine learning tools (not just a tool user!!!) 
+  + Key Results: students get (1) to build multiple machine learning methods from scratch, (2) to understand complex machine learning methods at the source code level and (3) to re-produce one cutting-edge machine learning paper. 
 
 
 ### Prerequisite:
 
-+ Required courses as prerequisite: Calculus, Basic linear algebra, Basic Probability and Basic Algorithm. Statistics is recommended.
-+ Students should already have good programming skills and can program with python (required) !
++ Required courses as prerequisite: Calculus, matrix algebra,  Probability and  Algorithm. Statistics is recommended.
++ Students should have had good programming skills and program with python well (required) !
 
 
 
@@ -37,15 +37,15 @@ desc: "Information for 2019 Fall UVa CS 6316 Machine Learning"
 [Homepage](http://www.cs.virginia.edu/yanjun/){:target="_blank"}+ 
 [yanjun@virginia.edu](mailto:yanjun@virginia.edu);  Rice Hall 503 , 243-3089;  Office hours:  TBD
 
-+ ##### TAs: TBD
++ ##### TAs: 
+   + [Ji Gao](mailto:jc4zg@virginia.edu): 
+   + [Ji Gao](mailto:jc4zg@virginia.edu): 
    + [Ji Gao](mailto:jc4zg@virginia.edu): 
 
 + #### TA office hours: TBD
+   + [Ji Gao](mailto:jc4zg@virginia.edu): 
+   + [Ji Gao](mailto:jc4zg@virginia.edu): 
 
-+ #### Communications: 
-  + All logistic issues are announced via course [email list](mailto:19f-cs-6316-ml@collab.its.virginia.edu)
-  + All late assignments to 
-  [instructors-19f-cs-6316@collab.its.virginia.edu](mailto:instructors-19f-cs-6316@collab.its.virginia.edu)
 
 
 ### Text Book
@@ -56,38 +56,37 @@ desc: "Information for 2019 Fall UVa CS 6316 Machine Learning"
 
 ### Course Websites
 
-+ Course Collab page to submit  assignments and project reports.
-+ Course schedule and materials are listed @ [URL](https://qiyanjun.github.io/2018fUVA-CS4501MachineLearning/)
++ Course schedule and materials are  @ [https://qiyanjun.github.io/2019f-UVA-CS6316-MachineLearning/](https://qiyanjun.github.io/2019f-UVA-CS6316-MachineLearning/)
 + Course Piazza page for QA of exams, quizzes, class-discussions and assignments.
++ Course Collab page to submit  assignments and project reports.
++ All logistic issues are announced via course [email list](mailto:19f-cs-6316-ml@collab.its.virginia.edu)
 
 
 
 ### Course Grading Policy
   The grade will be calculated as follows:
 + Assignments (60%, with six assignments)
-+ Midterm (20%): 75mins in class; closed book;  only one page of letter-size note (two-sided) is allowed; no smart device is allowed during the exam; your notes can be typed or handwritten;   
-+ Final (20%): 75mins in class; closed book;  only one page of letter-size note (two-sided) is allowed; no smart device is allowed during the exam; your notes can be typed or handwritten;  
-+ Extra programming tasks or Extra Sample Exam Questions (Extra 5%)
-+ #### Additional Non-Linear Constraint: In order to pass the course, the average of your midterm and final must also be "pass".
++ In-class quizzes (20%): each takes 5 ~ 10 mins in class;  
++ Final project (20%):  
 
 
 ### Assignment due dates, Lateness and Extensions
-
-+ #### All communication regarding late assignment submission should be done directly with  [instructors-19f-cs-6316@collab.its.virginia.edu](mailto:instructors-19f-cs-6316@collab.its.virginia.edu), not with the instructor.
 
 + Unless otherwise specified, assignments should be submitted through collab and are due  <b>
 at 11:59pm on the due date </b>.
 + Programming solutions should be placed in each student's appropriate
  Collab  directory.
+
++ #### All communications regarding late assignment submissions should go directly to [instructors-19f-cs-6316@collab.its.virginia.edu](mailto:instructors-19f-cs-6316@collab.its.virginia.edu), not with the instructor.
+
 + About Extensions:
-  + Please submit your late assignment to [instructors-19f-cs-6316@collab.its.virginia.edu](mailto:instructors-19f-cs-6316@collab.its.virginia.edu),
-  + Each student has <b>six</b> extension days to be used at his or
+  + Each student has <b>three</b> extension days to be used at his or
 her own discretion throughout the entire course.
   + Your grades would be
-discounted by 15% per day when you use these late days.
+discounted by 10% per day when you use these late days.
   + You could use the days in whatever combination you like. For example,
 all days on 1 assignment or 1 each day
-over six assignments (for a maximum grade of 85% on each).
+over six assignments (for a maximum grade of 90% on each).
   + After you've used all late days, you cannot get credit
 for anything turned in late.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Review
 lecture: L22-review
-lectureVersion: current
+lectureVersion: 
 extraContent: 
 notes: <a href="https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/en">ML Cheatsheets </a>  
 HWout: 
