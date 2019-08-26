@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Course Information
-desc: "Information for UVA CS 4501 Machine Learning"
+desc: "Information for 2019 Fall UVa CS 6316 Machine Learning"
 ---
 
 <hr>
@@ -10,8 +10,8 @@ desc: "Information for UVA CS 4501 Machine Learning"
 
 ### Course Basics:
 
-+ TuTh 3:30PM - 4:45PM
-+ Rice 130
++ MoWe 2:00PM - 3:15PM 
++ Thornton Hall E303
 
 ### General Description:
 
@@ -35,25 +35,17 @@ desc: "Information for UVA CS 4501 Machine Learning"
 
 + ##### Prof. Yanjun Qi: 
 [Homepage](http://www.cs.virginia.edu/yanjun/){:target="_blank"}+ 
-[yanjun@virginia.edu](mailto:yanjun@virginia.edu);  Rice Hall 503 , 243-3089;  Office hours:  Monday 1pm-2pm
+[yanjun@virginia.edu](mailto:yanjun@virginia.edu);  Rice Hall 503 , 243-3089;  Office hours:  TBD
 
-+ ##### TAs: 
-  + [Eamon Collins ](mailto:ec3bd@virginia.edu):   
-  + [Derrick Blakely ](mailto:agk7uc@virginia.edu):   
-  + [Jinghui Chen](mailto:jc4zg@virginia.edu): 
-  + [Ji Gao](mailto:jc4zg@virginia.edu): 
++ ##### TAs: TBD
+   + [Ji Gao](mailto:jc4zg@virginia.edu): 
 
-+ #### TA office hours: 
-  + Derrick's office hour: Monday 6:30pm-8:30pm in Rice 204
-  + Derrick's 2nd office hour: Thursday 6:30pm-7:30pm in Rice 204
-  + Eamon's office hour: Wednesday 5pm-7pm in Rice 204
-  + Eamon's 2nd office hour: Friday 4pm-5pm in Rice 340
-  + Study Hall (noTA): Tuesday/Thursday 5pm-7pm in Rice 504
++ #### TA office hours: TBD
 
 + #### Communications: 
-  + All logistic issues are announced via course [email list](mailto:18f-cs-4501-001@collab.its.virginia.edu)
-  + All late assignments should be submitted to 
-  [ta-18f-cs-4501-001@collab.its.virginia.edu](mailto:ta-18f-cs-4501-001@collab.its.virginia.edu)
+  + All logistic issues are announced via course [email list](mailto:19f-cs-6316-ml@collab.its.virginia.edu)
+  + All late assignments to 
+  [instructors-19f-cs-6316@collab.its.virginia.edu](mailto:instructors-19f-cs-6316@collab.its.virginia.edu)
 
 
 ### Text Book
@@ -81,15 +73,14 @@ desc: "Information for UVA CS 4501 Machine Learning"
 
 ### Assignment due dates, Lateness and Extensions
 
-+ #### All communication regarding late assignment submission should be done directly with  [ta-18f-cs-4501-001@collab.its.virginia.edu](mailto:ta-18f-cs-4501-001@collab.its.virginia.edu), not with the instructor.
++ #### All communication regarding late assignment submission should be done directly with  [instructors-19f-cs-6316@collab.its.virginia.edu](mailto:instructors-19f-cs-6316@collab.its.virginia.edu), not with the instructor.
 
 + Unless otherwise specified, assignments should be submitted through collab and are due  <b>
 at 11:59pm on the due date </b>.
 + Programming solutions should be placed in each student's appropriate
  Collab  directory.
 + About Extensions:
-  + Please submit your late assignment to 
-  [ta-18f-cs-4501-001@collab.its.virginia.edu](mailto:ta-18f-cs-4501-001@collab.its.virginia.edu)
+  + Please submit your late assignment to [instructors-19f-cs-6316@collab.its.virginia.edu](mailto:instructors-19f-cs-6316@collab.its.virginia.edu),
   + Each student has <b>six</b> extension days to be used at his or
 her own discretion throughout the entire course.
   + Your grades would be

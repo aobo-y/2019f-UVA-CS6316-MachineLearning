@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LecturesByDate
-desc: "UVa CS 4501 Machine Learning Lectures Organized by Date"
+desc: "2019 Fall UVa CS 6316 Machine Learning Lectures Organized by Date"
 ---
 
 
