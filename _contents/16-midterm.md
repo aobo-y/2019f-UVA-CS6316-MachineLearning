@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Midterm
+title: Break
 lecture:
 lectureVersion:
 extraContent:
@@ -10,5 +10,5 @@ HWin:
 desc: W9
 week: Tu
 tags:
-- Exams
+- Review
 ---

@@ -18,7 +18,7 @@ Click on a tag to see relevant list of lectures.
 
 ---
 
-{% assign tags =  site.contents | map: 'tags' | uniq %}
+{% assign tags =  site.contents | map: 'tags' | uniq | sort %}
 {% for tag in tags %}
   {% assign t = tag %}
 
