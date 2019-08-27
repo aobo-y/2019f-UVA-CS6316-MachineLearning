@@ -42,17 +42,23 @@ when you find my typos or have comments. The covered materials are by no means a
 </tr>
 
 {% assign counter = 0 %}
+{% assign currentTag = 0 %}
 {% assign sorted = site.contents %}
+
 {% for post in sorted %}
 
-{% if post.lectureVersion contains 'current' %}
-<tr> <td align="center" bgcolor="#bafdfb" colspan="6"><font color="#990000"><b> We Are Here </b></font></td>
-</tr>
+{% if currentTag == 0 %}
+  {% unless post.lectureVersion contains 'current'  %}
+    <tr><td align="center" bgcolor="#bafdfb"  colspan="6"><font color="#990000"><b>WE ARE HERE</b></font></td></tr>
+    {% assign currentTag=currentTag | plus:1 %}
+  {% endunless %}
 {% endif %}
 
 
 <tr>
+
 <td>{{ counter }}</td>
+
 <td>{{ post.desc }}</td>
 
 {% if counter == 0 %}
