@@ -21,12 +21,12 @@ desc: "Information for 2019 Fall UVa CS 6316 Machine Learning"
 
 + Objective of this course: 
   + Goal: To help students get capable in building machine learning tools (not just a tool user!!!) 
-  + Key Results: students get (1) to build multiple machine learning methods from scratch, (2) to understand complex machine learning methods at the source code level and (3) to re-produce one cutting-edge machine learning paper. 
+  + Key Results: (1) to build multiple machine learning methods from scratch, (2) to understand complex machine learning methods at the source code level and (3) to re-produce one cutting-edge machine learning paper. 
 
 
 ### Prerequisite:
 
-+ Required courses as prerequisite: Calculus, matrix algebra,  Probability and  Algorithm. Statistics is recommended.
++ Required courses as prerequisites: Calculus, matrix algebra,  Probability and  Algorithm. Statistics is recommended.
 + Students should have had good programming skills and program with python well (required) !
 
 
@@ -39,12 +39,12 @@ desc: "Information for 2019 Fall UVa CS 6316 Machine Learning"
 
 + ##### TAs: 
    + [Ji Gao](mailto:jc4zg@virginia.edu): 
-   + [Ji Gao](mailto:jc4zg@virginia.edu): 
-   + [Ji Gao](mailto:jc4zg@virginia.edu): 
+   + [Alif Ahmed](mailto:alifahmed@virginia.edu): 
+   + [Arshdeep Sekhon](mailto:as5cu@virginia.edu): 
 
-+ #### TA office hours: TBD
-   + [Ji Gao](mailto:jc4zg@virginia.edu): 
-   + [Ji Gao](mailto:jc4zg@virginia.edu): 
++ #### TA office hours: 
+   + Ji Gao: Mon 5pm-6pm 
+   + Arshdeep Sekhon: Wed 5pm-6pm
 
 
 
@@ -100,7 +100,7 @@ send mail to the instructor.
    on  the course piazza site and through course email-list.
 
 ### Discussion board
-We will use Piazza for a discussion board. In addition to in-person assistance, this is the place where you can seek help, offer help, share your thoughts and discoveries, or discuss technical difficulties and potential troubleshooting. You can our class Piazza site through the course collab sidebar. Ask all technical questions about the course material or the assignments on Piazza. 
+We will use Piazza for a discussion board. In addition to in-person assistance, this is the place where you can seek help, offer help, share your thoughts and discoveries, or discuss technical difficulties and potential troubleshooting. You can visit our class Piazza site through the course collab sidebar. Ask all technical questions about the course material or the assignments on Piazza. 
 
 ### Extra Useful references
 

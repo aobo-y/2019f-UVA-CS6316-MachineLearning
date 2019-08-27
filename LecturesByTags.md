@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LecturesByTag
+title: Topics
 desc: "2019 Fall UVa CS 6316 Machine Learning Lectures Organized by Tags"
 ---
 <p><a name="topPage"></a></p>
@@ -9,7 +9,7 @@ desc: "2019 Fall UVa CS 6316 Machine Learning Lectures Organized by Tags"
 Click on a tag to see relevant list of lectures.
 
 <ul class="tags">
-{% assign tags =  site.contents | map: 'tags' | uniq %}
+{% assign tags =  site.contents | map: 'tags' | uniq | sort %}
 {% for tag in tags %}
   {% assign t = tag  %}
   <li><a href="{{ site.baseurl }}/LecturesByTags/#{{t | replace:" ","-" }}">{{ t }}</a></li>
@@ -30,12 +30,9 @@ Click on a tag to see relevant list of lectures.
 <table id="datatab3" summary="Table of Lectures" border="1">
 <tr>
  <h3><b>
-  <th>No.</th>
-  <th>Date</th>
   <th>Week</th>
   <th>Title</th>
   <th>Lecture</th>
-  <th>Lecture <br>Version</th>
   <th>Extra <br>Content</th>
   <th>Notes</th>
   </b>
@@ -48,11 +45,7 @@ Click on a tag to see relevant list of lectures.
     {% if post.tags contains tag %}
  
   <tr>
-  <td>{{ counter }}</td>
-  <td><span class="date"> {{ post.date | date: "%-b, %-d "  }}</span></td>
   <td>{{ post.desc }}</td>
-  <!---<td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} </a></td> -->
-
 
   {% if t contains "0Logistics" %}
   <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} </a></td>
@@ -62,12 +55,9 @@ Click on a tag to see relevant list of lectures.
 
   {% if post.lecture %}
   <td><a href="{{ site.baseurl }}/Lectures/{{ post.lecture }}.pdf">Slide</a></td>
-  <td>{{ post.lectureVersion }}</td>
   {% else %}
   <td></td>
-  <td></td>
   {% endif %}
-
 
   {% if post.extraContent %}
   <td><a href="{{ site.baseurl }}/Lectures/{{ post.extraContent }}.pdf"> PDF </a></td>
