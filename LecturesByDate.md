@@ -43,7 +43,7 @@ desc: "2019 Fall UVa CS 6316 Machine Learning Lectures Organized by Date"
 <br>
 
   {% if post.lecture %}
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://qiyanjun.github.io/2018fUVA-CS4501MachineLearning//Lectures/{{ post.lecture }}.pdf" width="600" height="395"> 
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://qiyanjun.github.io/2019f-UVA-CS6316-MachineLearning//Lectures/{{ post.lecture }}.pdf" width="600" height="395"> 
   {% endif %}
 
 
