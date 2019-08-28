@@ -15,7 +15,7 @@ desc: "Information for 2019 Fall UVa CS 6316 Machine Learning"
 
 ### General Description:
 
-+ Machine Learning is concerned with computer programs that automatically improve their performance through experience. This 3-credit course covers introductory topics about the theory and practical algorithms for machine learning from a variety of perspectives. Topics include supervised learning, unsupervised learning and learning theory.
++ Machine Learning is concerned with building computer programs that automatically improve through experience. This 3-credit course covers master-level topics about the theory and practical algorithms for machine learning from a variety of perspectives. Topics include supervised learning, unsupervised learning and learning theory.
 
 + Assignments include multiple short programming and writing assignments for hands-on experiments of various learning algorithms, multiple in-class quizzes, and a final project.
 
@@ -26,12 +26,12 @@ desc: "Information for 2019 Fall UVa CS 6316 Machine Learning"
 
 ### Prerequisite:
 
-+ Required courses as prerequisites: Calculus, matrix algebra,  Probability and  Algorithm. Statistics is recommended.
++ Required courses as prerequisites: Calculus, Matrix algebra,  Probability and  Algorithm. Statistics is recommended.
 + Students should have had good programming skills and program with python well (required) !
 
 
 
-### Instructor
+### Instructors
 
 + ##### Prof. Yanjun Qi: 
   - [Homepage](http://www.cs.virginia.edu/yanjun/){:target="_blank"}

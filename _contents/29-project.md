@@ -7,7 +7,7 @@ extraContent:
 notes: 
 HWout: 
 HWin: HW6 (due on Dec 12th)
-desc: W16
+desc: W15
 week: Th
 tags:
 - 1Basic

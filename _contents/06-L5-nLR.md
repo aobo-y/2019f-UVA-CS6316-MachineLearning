@@ -9,7 +9,7 @@ HWout: HW2
 HWin: HW1
 desc: W4
 week: Tu
-Quizz: Q0
+Quizz: Q
 tags:
 - 2Regression
 - Nonlinear

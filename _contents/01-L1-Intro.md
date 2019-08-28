@@ -7,6 +7,7 @@ lectureVersion: current
 extraContent:
 notes: <a href="http://cs231n.github.io/python-numpy-tutorial/"> Numpy Tutorial </a>
 week: Th
+Quizz: Q
 tags:
 - 1Basic
 ---

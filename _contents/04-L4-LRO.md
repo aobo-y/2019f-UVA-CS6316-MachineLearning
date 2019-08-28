@@ -9,7 +9,7 @@ HWout:
 HWin:
 desc: W3
 week: Tu
-Quizz: Q0
+Quizz: Q
 tags:
 - 2Regression
 - Optimization

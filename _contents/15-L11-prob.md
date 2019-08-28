@@ -7,6 +7,7 @@ extraContent:  L13-MLE
 notes: <a href="http://statweb.stanford.edu/~susan/courses/s200/lectures/lect11.pdf"> MLE </a>  + <a href="https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html"> compare classifiers </a> 
 HWout: 
 HWin:  
+Quizz: Q
 desc: W9
 week: Th
 tags:
