@@ -10,8 +10,12 @@ Feel free to submit <a href="https://github.com/qiyanjun/2019f-UVA-CS6316-Machin
 when you find my typos or have comments. The covered materials are by no means an exhaustive list of machine learning, but are contents that we have taught or plan to teach in my machine learning introductory course.
 
 <ul>
-<li>Please submit all extension requests, questions, and late assignments  to <a href="mailto:instructors-19f-cs-6316@collab.its.virginia.edu">instructors-19f-cs-6316@collab.its.virginia.edu</a>
-</li>
+  <li>Please submit all extension requests, questions, and late assignments  to <br><a href="mailto:instructors-19f-cs-6316@collab.its.virginia.edu">instructors-19f-cs-6316@collab.its.virginia.edu</a>
+  </li>
+
+  <li>
+    Please pay attention to special dates: <font color="#990000"><b>(0902)</b></font> We have class; <font color="#990000"><b>(0910)</b></font> Add/Drop Last day; <font color="#990000"><b>(1007)</b></font> Reading day; <font color="#990000"><b>(1127)</b></font> Thanksgiving Break; <font color="#990000"><b>(1206)</b></font> Last lesson day of Fall semester.  
+  </li>
 </ul>
 </div>
 
@@ -20,10 +24,8 @@ when you find my typos or have comments. The covered materials are by no means a
 
 <h1>  Course Schedule and Notes  </h1>
 
+
 <p><font color="#990000"><b>The lecture schedule below is tentative and is continually subject to change; We will move at whatever pace we find comfortable.&nbsp;</b></font>&nbsp;</p>
-
-
-
 <p><a name="topPage"></a></p>
 
 <div class="posts">
@@ -45,6 +47,8 @@ when you find my typos or have comments. The covered materials are by no means a
 {% assign currentTag = 0 %}
 {% assign sorted = site.contents %}
 
+{% assign ddates = "0828|0902|0904|0909|0911|0916|0918|0923|0925|0930|1002|1009|1014|1016|1021|1023|1028|1030|1104|1106|1111|1113|1118|1120|1125|1202|1204|1206" | split: "|" %}
+
 {% for post in sorted %}
 
 {% if currentTag == 0 %}
@@ -57,7 +61,8 @@ when you find my typos or have comments. The covered materials are by no means a
 
 <tr>
 
-<td>{{ counter }}</td>
+<td>{{ ddates[counter] }} </td>
+{% assign counter=counter | plus:1 %}
 
 <td>{{ post.desc }}</td>
 
@@ -83,7 +88,6 @@ when you find my typos or have comments. The covered materials are by no means a
 
 </tr>
 
-{% assign counter=counter | plus:1 %}
 {% endfor %}
 
 </table>

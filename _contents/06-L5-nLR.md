@@ -6,9 +6,10 @@ lectureVersion:
 extraContent:
 notes: <a href="https://stat.ethz.ch/~stahel/courses/cheming/nlreg10E.pdf"> Useful </a> 
 HWout: HW2 
-HWin: HW1  due on Monday (17th midnight)
+HWin: HW1
 desc: W4
 week: Tu
+Quizz: Q0
 tags:
 - 2Regression
 - Nonlinear

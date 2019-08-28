@@ -34,22 +34,21 @@ desc: "Information for 2019 Fall UVa CS 6316 Machine Learning"
 ### Instructor
 
 + ##### Prof. Yanjun Qi: 
-[Homepage](http://www.cs.virginia.edu/yanjun/){:target="_blank"}+ 
-[yanjun@virginia.edu](mailto:yanjun@virginia.edu);  Rice Hall 503 , 243-3089;  Office hours:  TBD
+  - [Homepage](http://www.cs.virginia.edu/yanjun/){:target="_blank"}
+  - [yanjun@virginia.edu](mailto:yanjun@virginia.edu);  
+  - Rice Hall 503, 243-3089;  
+  - Office hours: By appointments.
 
 + ##### TAs: 
    + [Ji Gao](mailto:jc4zg@virginia.edu): 
    + [Alif Ahmed](mailto:alifahmed@virginia.edu): 
    + [Arshdeep Sekhon](mailto:as5cu@virginia.edu): 
 
-+ #### TA office hours: 
++ #### TA office hours in Rice 504 
    + Ji Gao: Mon 5pm-6pm 
    + Arshdeep Sekhon: Wed 5pm-6pm
 
-
-
 ### Text Book
-
 + No required text book.
 + Course slides and handouts are self-contained.
 
