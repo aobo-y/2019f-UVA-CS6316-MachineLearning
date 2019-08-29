@@ -11,7 +11,7 @@ desc: "Information for 2019 Fall UVa CS 6316 Machine Learning"
 ### Course Basics:
 
 + MoWe 2:00PM - 3:15PM 
-+ Thornton Hall E303
++ MEC 205
 
 ### General Description:
 
