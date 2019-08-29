@@ -8,6 +8,9 @@ desc: "Information of Assignments and Final Project for 2019 Fall UVa CS 6316 Ma
 
 ### Six assignments (60%)
 + Will post on collab 
++ Please submit all extension requests, questions, and late assignments  to <br>
+[instructors-19f-cs-6316@collab.its.virginia.edu](mailto:instructors-19f-cs-6316@collab.its.virginia.edu)
+ 
 
 <table id="datatab3" summary="Six Assignments" border="1">
 <tr>
