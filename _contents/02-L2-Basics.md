@@ -2,7 +2,7 @@
 layout: post
 title:  Algebra Review
 lecture: L02-review
-lectureVersion: 
+lectureVersion: current
 extraContent: L02extra-algnotes
 notes: <a href="https://www.khanacademy.org/math/multivariable-calculus"> Useful Math</a>
 HWout: HW1 
