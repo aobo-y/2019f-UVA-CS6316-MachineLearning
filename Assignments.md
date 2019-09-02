@@ -73,6 +73,8 @@ desc: "Information of Assignments and Final Project for 2019 Fall UVa CS 6316 Ma
 + Quizz dates will show on the schedule page
 + Mostly quizzes will be on Mondays
 + Each quizz includes contents we cover in the previous week
++ We will use your top-10 quizzes to calculate the 20%. 
+
 
 <hr>
 
