@@ -26,43 +26,43 @@ desc: "Information of Assignments and Final Project for 2019 Fall UVa CS 6316 Ma
 <tr>
   <td>HW1</td>
   <td></td>
-  <td></td>
-  <td></td>
+  <td>W2</td>
+  <td>W4</td>
   <td></td>
 </tr>
 <tr>
   <td>HW2</td>
   <td></td>
-  <td></td>
-  <td></td>
+  <td>W4</td>
+  <td>W6</td>
   <td></td>
 </tr>
 <tr>
   <td>HW3</td>
   <td></td>
-  <td></td>
-  <td></td>
+  <td>W6</td>
+  <td>W8</td>
   <td></td>
 </tr>
 <tr>
   <td>HW4</td>
   <td></td>
-  <td></td>
-  <td></td>
+  <td>W9</td>
+  <td>W11</td>
   <td></td>
 </tr>
 <tr>
   <td>HW5</td>
   <td></td>
-  <td></td>
-  <td></td>
+  <td>W12</td>
+  <td>W14</td>
   <td></td>
 </tr>
 <tr>
   <td>HW6</td>
   <td></td>
-  <td></td>
-  <td></td>
+  <td>W14</td>
+  <td>W16</td>
   <td></td>
 </tr>
 </table>
