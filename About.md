@@ -26,9 +26,27 @@ desc: "Information for 2019 Fall UVa CS 6316 Machine Learning"
 
 ### Prerequisite:
 
-+ Required courses as prerequisites: Calculus, Matrix algebra,  Probability and  Algorithm. Statistics is recommended.
 + Students should have had good programming skills and program with python well (required) !
++ Required courses as prerequisites: Calculus, Matrix algebra,  Probability and  Algorithm. Statistics is recommended.
++ A more detailed list of prerequisites knowledges and skills you need to have before taking this course: 
 
+| Fields       |  Topics    |
+| :------------- | :---------------------: |
+|  Multivariate Calculus: |  - Derivatives (including partial) | 
+|                          | - gradient     |
+|                          | - Jacobian     |
+|                          | - Hessian     |
+|  Matrix Algebra: |  - Rank, Trace, Determinant, Orthonormal, symmetrict, ... | 
+|                          | - Positive Semidefinite,  Positive Definite  |
+|                          | - Eigen Decomposition, Singular Value Decomposition |
+|                          | - Hessian     |
+|  Probability: |  - Bernoulli, Gaussian, Multinomial | 
+|                          | - Conditional, Joint, Marginal     |
+|                          | - Maximum Likelihood Estimation     |
+|  Algorithms and Data Structure: |  - O(), asymptotic run time / memory complexity | 
+|                          | - Matrix Computation,  Strassen's    |
+|                          | - P / NP ...    |
+|                          | - Vectorization, Memory Hierarchy    |
 
 
 ### Instructors
