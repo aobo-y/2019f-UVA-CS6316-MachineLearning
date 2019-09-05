@@ -30,7 +30,6 @@ Click on a tag to see relevant list of lectures.
 <table id="datatab3" summary="Table of Lectures" border="1">
 <tr>
  <h3><b>
-  <th>Week</th>
   <th>Title</th>
   <th>Lecture</th>
   <th>Extra <br>Content</th>
@@ -45,7 +44,6 @@ Click on a tag to see relevant list of lectures.
     {% if post.tags contains tag %}
  
   <tr>
-  <td>{{ post.desc }}</td>
 
   {% if t contains "0Logistics" %}
   <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} </a></td>
