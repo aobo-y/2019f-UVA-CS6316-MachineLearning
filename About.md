@@ -52,7 +52,7 @@ desc: "Information for 2019 Fall UVa CS 6316 Machine Learning"
   - [Homepage](http://www.cs.virginia.edu/yanjun/){:target="_blank"}
   - [yanjun@virginia.edu](mailto:yanjun@virginia.edu);  
   - Rice Hall 503, 243-3089;  
-  - Office hours: By appointments.
+  - Office hours: Friday 8:30am-9:30am
 
 + ##### TAs: 
    + [Ji Gao](mailto:jc4zg@virginia.edu): 
