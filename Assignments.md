@@ -85,14 +85,17 @@ desc: "Information of Assignments and Final Project for 2019 Fall UVa CS 6316 Ma
 + Each team includes up to four students 
 + To understand, reproduce and present one cutting-edge machine learning paper
 
-+ Here is the potential paper list: 
 + Each team is required to submit two documents for their project
   - A powerpoint presentation (Due in Collab on Nov 20th) summarizing the paper via a template and describe the results you reproduce
   - A python Jupyter notebook (Due in Collab on Dec 7th) to present the code, data visualization, and obtain the results and analysis through step by step code cell run. Your team will go through and show the notebook file at the final project presentation meeting to the instructors. 
- - By Week3, we will use a google spreadsheet to coordinating team forming and paper bidding. 
- - Please discuss with your fellow classmates, forming potential teams ASAP. 
- - Please share questions and concerns to  to <br>
+
++ By Week3, we will use a google spreadsheet to coordinating team forming and paper bidding. 
++ Please discuss with your fellow classmates, forming potential teams ASAP. 
++ We allow self-selected papers. 
++ Please share questions and concerns to  to <br>
 [instructors-19f-cs-6316@collab.its.virginia.edu](mailto:instructors-19f-cs-6316@collab.its.virginia.edu). 
+
++ Here is the potential paper list: 
 
 
 |INDEX     |Title  & Link  |Conference|Year|
