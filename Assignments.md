@@ -7,7 +7,10 @@ desc: "Information of Assignments and Final Project for 2019 Fall UVa CS 6316 Ma
 <hr>
 
 ### Six assignments (60%)
-+ Will post on collab 
++ Post in collab 
++ You will receive grading of each HWs within 10 day of each due time. A release email will send to you about the grading. (If you don’t receive such emails in time, please do email to to <br>
+[instructors-19f-cs-6316@collab.its.virginia.edu](mailto:instructors-19f-cs-6316@collab.its.virginia.edu).
+
 + Please submit all extension requests, questions, and late assignments  to <br>
 [instructors-19f-cs-6316@collab.its.virginia.edu](mailto:instructors-19f-cs-6316@collab.its.virginia.edu)
  
@@ -91,7 +94,7 @@ desc: "Information of Assignments and Final Project for 2019 Fall UVa CS 6316 Ma
 |INDEX     |Title  & Link  |Conference|Year|
 |------|----------------------------|-----|----------|----|
 |1   | [An Empirical Study of Example Forgetting during Deep Neural Network Learning](https://openreview.net/pdf?id=BJlxm30cKm)| ICLR      |2019|
-|2   | [ROBUSTNESS MAY BE AT ODDS WITH ACCURACY](https://openreview.net/pdf?id=SyxAb30cY7|ICLR)      |2019|
+|2   | [ROBUSTNESS May Be at ODDS WITH ACCURACY](https://openreview.net/pdf?id=SyxAb30cY7)|ICLR      |2019|
 |3   | [Critical Learning Periods in Deep Networks](https://arxiv.org/abs/1711.08856) |ICLR      |2019|
 |4   | [LEARNING ROBUST REPRESENTATIONS BY PROJECTING SUPERFICIAL STATISTICS OUT](https://openreview.net/forum?id=rJEjjoR9K7) |ICLR      |2019|
 |5   | [Classification from Positive, Unlabeled and Biased Negative Data](https://openreview.net/pdf?id=H1ldNoC9tX)| ICLR    |2019|
@@ -147,4 +150,4 @@ desc: "Information of Assignments and Final Project for 2019 Fall UVa CS 6316 Ma
 |55  | [On the Optimization of Deep Networks: Implicit Acceleration by Overparameterization](http://proceedings.mlr.press/v80/arora18a.html)|ICML      |2018|
 |56  | [Escaping Saddles with Stochastic Gradients](http://proceedings.mlr.press/v80/daneshmand18a.html)|ICML      |2018|
 |57  | [Deep Asymmetric Multi-task Feature Learning](https://arxiv.org/abs/1708.00260)|ICML      |2018|
-|58  | [GNN Explainer: A Tool for Post-hoc Explanation of Graph Neural Networks](https://arxiv.org/abs/1903.03894)|          |    |
+|58  | [GNN Explainer: A Tool for Post-hoc Explanation of Graph Neural Networks](https://arxiv.org/abs/1903.03894)|     KDD     | 2018   |
