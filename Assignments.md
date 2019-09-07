@@ -115,27 +115,27 @@ desc: "Information of Assignments and Final Project for 2019 Fall UVa CS 6316 Ma
 |13  | [Bias Also Matters: Bias Attribution for Deep Neural Network Explanation ](http://proceedings.mlr.press/v97/wang19p/wang19p.pdf) |ICML      |2019|
 |14  | [Escaping Saddle Points with Adaptive Gradient Methods](http://proceedings.mlr.press/v97/staib19a/staib19a.pdf)| ICML      |2019|
 |15  | [Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/abs/1902.00751)|ICML      |2019|
-|16  |[Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913) |NIPS      |2018|
-|17  | [Modern Neural Networks Generalize on Small Data Sets](http://papers.nips.cc/paper/7620-modern-neural-networks-generalize-on-small-data-sets.pdf)| NIPS      |2018|
-|18  | [Generative modeling for protein structures](https://papers.nips.cc/paper/7978-generative-modeling-for-protein-structures.pdf)| NIPS      |2018|
-|19  | [On Binary Classification in Extreme Regions](https://papers.nips.cc/paper/7572-on-binary-classification-in-extreme-regions.pdf)| NIPS      |2018|
-|20  | [The Description Length of Deep Learning models](https://arxiv.org/abs/1802.07044)| NIPS      |2018|
-|21  | [L1-regression with Heavy-tailed Distributions](https://arxiv.org/abs/1805.00616)| NIPS      |2018|
-|22  | [Dynamic Network Model from Partial Observations](https://arxiv.org/abs/1805.10616)| NIPS      |2018|
-|23  | [Learning Invariances using the Marginal Likelihood](https://arxiv.org/abs/1808.05563) | NIPS      |2018|
-|24  | [How SGD Selects the Global Minima in Over-parameterized Learning: A Dynamical Stability Perspective ](https://papers.nips.cc/paper/8049-how-sgd-selects-the-global-minima-in-over-parameterized-learning-a-dynamical-stability-perspective.pdf)| NIPS      |2018|
-|25  | [On the Local Minima of the Empirical Risk](https://arxiv.org/abs/1803.09357)| NIPS      |2018|
-|26  | [Human-in-the-Loop Interpretability Prior](https://arxiv.org/abs/1805.11571)|  NIPS      |2018|
-|27  | [Processing of missing data by neural networks](https://papers.nips.cc/paper/7537-processing-of-missing-data-by-neural-networks.pdf)| NIPS      |2018|
-|28  | [Maximum-Entropy Fine Grained Classification](http://papers.nips.cc/paper/7344-maximum-entropy-fine-grained-classification.pdf)| NIPS      |2018|
-|29  | [Deep Structured Prediction with Nonlinear Output Transformations](http://papers.nips.cc/paper/7869-deep-structured-prediction-with-nonlinear-output-transformations)|NIPS      |2018|
-|30  | [Large Margin Deep Networks for Classification](http://papers.nips.cc/paper/7364-large-margin-deep-networks-for-classification)| NIPS      |2018|
-|31  | [Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation ](http://papers.nips.cc/paper/8167-towards-understanding-learning-representations-to-what-extent-do-different-neural-networks-learn-the-same-representation)| NIPS      |2018|
-|32  | [Norm matters: efficient and accurate normalization schemes in deep networks](http://papers.nips.cc/paper/7485-norm-matters-efficient-and-accurate-normalization-schemes-in-deep-networks)|NIPS      |2018|
-|33  | [Query K-means Clustering and the Double Dixie Cup Problem](http://papers.nips.cc/paper/7899-query-k-means-clustering-and-the-double-dixie-cup-problem)| NIPS      |2018|
-|34  | [Bilevel learning of the Group Lasso structure](https://papers.nips.cc/paper/8051-bilevel-learning-of-the-group-lasso-structure)| NIPS      |2018|
-|35  | [Loss Functions for Multiset Prediction](http://papers.nips.cc/paper/7820-loss-functions-for-multiset-prediction)| NIPS      |2018|
-|36  | [Active Learning for Non-Parametric Regression Using Purely Random Trees ](http://papers.nips.cc/paper/7520-active-learning-for-non-parametric-regression-using-purely-random-trees)|NIPS      |2018|
+|16  |[Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913) |NeurIPS      |2018|
+|17  | [Modern Neural Networks Generalize on Small Data Sets](http://papers.NeurIPS.cc/paper/7620-modern-neural-networks-generalize-on-small-data-sets.pdf)| NeurIPS      |2018|
+|18  | [Generative modeling for protein structures](https://papers.NeurIPS.cc/paper/7978-generative-modeling-for-protein-structures.pdf)| NeurIPS      |2018|
+|19  | [On Binary Classification in Extreme Regions](https://papers.NeurIPS.cc/paper/7572-on-binary-classification-in-extreme-regions.pdf)| NeurIPS      |2018|
+|20  | [The Description Length of Deep Learning models](https://arxiv.org/abs/1802.07044)| NeurIPS      |2018|
+|21  | [L1-regression with Heavy-tailed Distributions](https://arxiv.org/abs/1805.00616)| NeurIPS      |2018|
+|22  | [Dynamic Network Model from Partial Observations](https://arxiv.org/abs/1805.10616)| NeurIPS      |2018|
+|23  | [Learning Invariances using the Marginal Likelihood](https://arxiv.org/abs/1808.05563) | NeurIPS      |2018|
+|24  | [How SGD Selects the Global Minima in Over-parameterized Learning: A Dynamical Stability Perspective ](https://papers.NeurIPS.cc/paper/8049-how-sgd-selects-the-global-minima-in-over-parameterized-learning-a-dynamical-stability-perspective.pdf)| NeurIPS      |2018|
+|25  | [On the Local Minima of the Empirical Risk](https://arxiv.org/abs/1803.09357)| NeurIPS      |2018|
+|26  | [Human-in-the-Loop Interpretability Prior](https://arxiv.org/abs/1805.11571)|  NeurIPS      |2018|
+|27  | [Processing of missing data by neural networks](https://papers.NeurIPS.cc/paper/7537-processing-of-missing-data-by-neural-networks.pdf)| NeurIPS      |2018|
+|28  | [Maximum-Entropy Fine Grained Classification](http://papers.NeurIPS.cc/paper/7344-maximum-entropy-fine-grained-classification.pdf)| NeurIPS      |2018|
+|29  | [Deep Structured Prediction with Nonlinear Output Transformations](http://papers.NeurIPS.cc/paper/7869-deep-structured-prediction-with-nonlinear-output-transformations)|NeurIPS      |2018|
+|30  | [Large Margin Deep Networks for Classification](http://papers.NeurIPS.cc/paper/7364-large-margin-deep-networks-for-classification)| NeurIPS      |2018|
+|31  | [Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation ](http://papers.NeurIPS.cc/paper/8167-towards-understanding-learning-representations-to-what-extent-do-different-neural-networks-learn-the-same-representation)| NeurIPS      |2018|
+|32  | [Norm matters: efficient and accurate normalization schemes in deep networks](http://papers.NeurIPS.cc/paper/7485-norm-matters-efficient-and-accurate-normalization-schemes-in-deep-networks)|NeurIPS      |2018|
+|33  | [Query K-means Clustering and the Double Dixie Cup Problem](http://papers.NeurIPS.cc/paper/7899-query-k-means-clustering-and-the-double-dixie-cup-problem)| NeurIPS      |2018|
+|34  | [Bilevel learning of the Group Lasso structure](https://papers.NeurIPS.cc/paper/8051-bilevel-learning-of-the-group-lasso-structure)| NeurIPS      |2018|
+|35  | [Loss Functions for Multiset Prediction](http://papers.NeurIPS.cc/paper/7820-loss-functions-for-multiset-prediction)| NeurIPS      |2018|
+|36  | [Active Learning for Non-Parametric Regression Using Purely Random Trees ](http://papers.NeurIPS.cc/paper/7520-active-learning-for-non-parametric-regression-using-purely-random-trees)|NeurIPS      |2018|
 |37  | [Model compression via distillation and quantization](https://openreview.net/forum?id=S1XolQbRW)| ICLR      |2018|
 |38  | [The power of deeper networks for expressing natural functions](https://openreview.net/pdf?id=SyProzZAW)|ICLR      |2018|
 |39  | [Decision Boundary Analysis of Adversarial Examples](https://openreview.net/pdf?id=BkpiPMbA-)| ICLR      |2018|
