@@ -25,10 +25,10 @@ desc: "Information of Assignments and Final Project for 2019 Fall UVa CS 6316 Ma
 </tr>
 <tr>
   <td>HW1</td>
-  <td>Out: </td>
+  <td>Out in Collab </td>
   <td>W2</td>
   <td>W4</td>
-  <td></td>
+  <td>Linear Regression and Four Optimization to Code</td>
 </tr>
 <tr>
   <td>HW2</td>
@@ -81,14 +81,14 @@ desc: "Information of Assignments and Final Project for 2019 Fall UVa CS 6316 Ma
 ### About Final Project (20%)
 + Each team includes up to four students 
 + To understand, reproduce and present one cutting-edge machine learning paper
-+ We will post the list of papers here by Week2
 
 + Here is the potential paper list: 
 + Each team is required to submit two documents for their project
-  - A presentation summarizing the paper via a template and describe the results you reproduce
-  - A python notebook file presenting the code, data visualization and the results through step by step code run through. Your team will go through and present the notebook file at the final project presentation meeting to the instructors.  
+  - A powerpoint presentation (Due in Collab on Nov 20th) summarizing the paper via a template and describe the results you reproduce
+  - A python Jupyter notebook (Due in Collab on Dec 7th) to present the code, data visualization, and obtain the results and analysis through step by step code cell run. Your team will go through and show the notebook file at the final project presentation meeting to the instructors. 
+ - By Week3, we will use a google spreadsheet to coordinating team forming and paper bidding. 
 
-|INDEX     |Title   |Link |Conference|Year|
+|INDEX     |Title  & Link  |Conference|Year|
 |------|----------------------------|-----|----------|----|
 |1   | [An Empirical Study of Example Forgetting during Deep Neural Network Learning](https://openreview.net/pdf?id=BJlxm30cKm)| ICLR      |2019|
 |2   | [ROBUSTNESS MAY BE AT ODDS WITH ACCURACY](https://openreview.net/pdf?id=SyxAb30cY7|ICLR)      |2019|
