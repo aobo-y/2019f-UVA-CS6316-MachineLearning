@@ -12,7 +12,7 @@ desc: "Information of Assignments and Final Project for 2019 Fall UVa CS 6316 Ma
 [instructors-19f-cs-6316@collab.its.virginia.edu](mailto:instructors-19f-cs-6316@collab.its.virginia.edu).
 
 + Please submit all extension requests, questions, and late assignments  to <br>
-[instructors-19f-cs-6316@collab.its.virginia.edu](mailto:instructors-19f-cs-6316@collab.its.virginia.edu)
+[instructors-19f-cs-6316@collab.its.virginia.edu](mailto:instructors-19f-cs-6316@collab.its.virginia.edu).
  
 
 <table id="datatab3" summary="Six Assignments" border="1">
@@ -90,6 +90,10 @@ desc: "Information of Assignments and Final Project for 2019 Fall UVa CS 6316 Ma
   - A powerpoint presentation (Due in Collab on Nov 20th) summarizing the paper via a template and describe the results you reproduce
   - A python Jupyter notebook (Due in Collab on Dec 7th) to present the code, data visualization, and obtain the results and analysis through step by step code cell run. Your team will go through and show the notebook file at the final project presentation meeting to the instructors. 
  - By Week3, we will use a google spreadsheet to coordinating team forming and paper bidding. 
+ - Please discuss with your fellow classmates, forming potential teams ASAP. 
+ - Please share questions and concerns to  to <br>
+[instructors-19f-cs-6316@collab.its.virginia.edu](mailto:instructors-19f-cs-6316@collab.its.virginia.edu). 
+
 
 |INDEX     |Title  & Link  |Conference|Year|
 |------|----------------------------|-----|----------|----|
