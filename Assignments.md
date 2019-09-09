@@ -78,8 +78,26 @@ desc: "Information of Assignments and Final Project for 2019 Fall UVa CS 6316 Ma
 + Each quizz includes contents we cover in the previous week
 + We will use your top-10 quizzes to calculate the 20%. 
 
++ Here is the potential paper list: 
 
-<hr>
+
+|INDEX     | Quiz |
+|------|----------------------------|
+| Q0   | [URL](https://qiyanjun.github.io/2019f-UVA-CS6316-MachineLearning//Lectures/Q0.pdf) |
+| Q1   | [URL](https://forms.gle/3TAzS5Gq4KsfVYzC8) |
+| Q2   | [URL]() |
+| Q3   | [URL]() |
+| Q4   | [URL]() |
+| Q5   | [URL]() |
+| Q6   | [URL]() |
+| Q7   | [URL]() |
+| Q8   | [URL]() |
+| Q9   | [URL]() |
+| Q10   | [URL]() |
+| Q11   | [URL]() |
+| Q12   | [URL]() |
+
+
 
 ### About Final Project (20%)
 + Each team includes up to four students 
