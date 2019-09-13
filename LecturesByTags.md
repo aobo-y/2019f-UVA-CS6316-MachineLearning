@@ -34,6 +34,7 @@ Click on a tag to see relevant list of lectures.
   <th>Lecture</th>
   <th>Extra <br>Content</th>
   <th>Notes</th>
+  <th>Video</th>
   </b>
   </h3>
 </tr>
@@ -63,7 +64,9 @@ Click on a tag to see relevant list of lectures.
   <td></td>
   {% endif %}
 
-  <td>{{ post.notes }} </td>
+  <td>{{ post.notes }} </td> 
+  <td> {{ post.video }}</td> 
+
   </tr>
 
   {% assign counter=counter | plus:1 %}
