@@ -35,7 +35,7 @@ desc: "2019 Fall UVa CS 6316 Machine Learning Lectures Organized by Given Order"
   <li>Useful to Read: {{ post.notes }} </li>
   {% endif %}
 
-  {{% if post.video %}}
+  {% if post.video %}
   <li>Video: {{ post.video }} </li>
   {% endif %}
 
