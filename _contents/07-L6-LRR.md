@@ -4,7 +4,7 @@ title: Linear Prediction with Regularization
 lecture: L06-lrReg
 lectureVersion: current
 extraContent: L06extra-lrRegOpm
-notes: <a href="http://www.stat.cmu.edu/~ryantibs/datamining/lectures/16-modr1.pdf"> Useful </a> 
+notes: <a href="http://www.stat.cmu.edu/~ryantibs/datamining/lectures/16-modr1.pdf"> More Ridge </a> 
 tags:
 - 2Regression
 - Optimization
