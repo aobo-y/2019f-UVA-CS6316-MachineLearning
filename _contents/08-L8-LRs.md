@@ -3,8 +3,8 @@ layout: post
 title: Lasso and Feature Selection
 lecture: L07-feaSelc
 lectureVersion: current
-extraContent: L08-regReview
-notes: <a href="https://web.stanford.edu/~hastie/TALKS/enet_talk.pdf"> Elastic paper </a>
+extraContent: 
+notes: <a href="https://web.stanford.edu/~hastie/ElemStatLearn/">ELS Ch3.4 and Ch3.3</a>
 tags:
 - 2Regression
 - Optimization
