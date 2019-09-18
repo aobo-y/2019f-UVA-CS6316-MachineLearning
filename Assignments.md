@@ -85,7 +85,7 @@ desc: "Information of Assignments and Final Project for 2019 Fall UVa CS 6316 Ma
 |------|----------------------------|
 | Q0   | [URL](https://qiyanjun.github.io/2019f-UVA-CS6316-MachineLearning//Lectures/Q0.pdf) |
 | Q1   | [URL](https://forms.gle/3TAzS5Gq4KsfVYzC8) |
-| Q2   | [URL](https://forms.gle/XupHG4ThxN3GkKbs6) |
+| Q2   | [URL](https://forms.gle/bo9mTo1Nor52wtVc6) |
 | Q3   | [URL]() |
 | Q4   | [URL]() |
 | Q5   | [URL]() |
