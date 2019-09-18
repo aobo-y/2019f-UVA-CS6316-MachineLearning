@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linear Prediction with Regularization
+title: Lasso and Elastic Net
 lecture: L06-lrReg
 lectureVersion: current
 extraContent: L06extra-lrRegOpm
