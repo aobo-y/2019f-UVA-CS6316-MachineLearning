@@ -35,10 +35,10 @@ desc: "Information of Assignments and Final Project for 2019 Fall UVa CS 6316 Ma
 </tr>
 <tr>
   <td>HW2</td>
-  <td></td>
+  <td>Out in Collab</td>
   <td>W4</td>
   <td>W6</td>
-  <td></td>
+  <td>Polynomial and Ridge to implement</td>
 </tr>
 <tr>
   <td>HW3</td>
