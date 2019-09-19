@@ -165,7 +165,7 @@ desc: "Information of Assignments and Final Project for 2019 Fall UVa CS 6316 Ma
 |45  | [The High-Dimensional Geometry of Binary Neural Networks](https://openreview.net/pdf?id=B1IDRdeCW)| ICLR      |2018|
 |46  | [Detecting Statistical Interactions from Neural Network Weights ](https://openreview.net/pdf?id=ByOfBggRZ)| ICLR      |2018|
 |47  | [The Implicit Bias of Gradient Descent on Separable Data](https://openreview.net/pdf?id=r1q7n9gAb)| ICLR      |2018|
-|48  | [Learning how to explain neural networks: PatternNet and PatternAttribution](https://openreview.net/pdf?id=BySRH6CpW)| ICLR      |2018|
+|48  | [Learning how to explain neural networks: PatternNet and PatternAttribution](https://arxiv.org/abs/1705.05598)| ICLR      |2018|
 |49  | [GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models ](https://arxiv.org/abs/1802.08773)| ICML      |2018|
 |50  | [Which Training Methods for GANs do actually Converge? ](http://proceedings.mlr.press/v80/mescheder18a.html)| ICML      |2018|
 |51  | [Nonoverlap-Promoting Variable Selection ](http://proceedings.mlr.press/v80/xie18b.html)| ICML      |2018|
